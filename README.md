@@ -1,0 +1,1 @@
+The creation of a recipe website is the aim of this project. All of the recipes are displayed on a landing page, and users can click on the various links to view more comprehensive recipes. An ingredient part, a preparation section that outlines the processes to be followed, and an image for visual aids are all included in the recipes.
