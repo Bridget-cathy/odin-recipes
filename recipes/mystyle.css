@@ -1,1 +1,12 @@
-
+body {
+  background-color: lightblue;
+}
+h1  {
+  color: navy;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  text-align: center;
+}
+h2  {
+  color: orange;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
